@@ -18,7 +18,7 @@ set timeLimit=0
 set progressBarType=default
 :: notice, info, debug, warn, error
 set conlogLevel=notice
-:: Если указан -, то вывод на экран. Если пустая строка (""), то журнал событий вообще не будет записан на диск
+:: Если указан -, то вывод на экран. Если пустая строка (""), то журнал событий вообще не будет записан на диск 
 set logFile=""
 :: Если задано *, то URI загрузки будет также использован как источник запроса.
 set referer=http://www.kavraion.ru
